@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -968,7 +969,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>HOLISTIC INVESTMENT PROPOSAL</h1>
-            <p class="hero-subtitle">Why $250K Builds a Winning Business,<br>While $50K Builds a Losing One</p>
+            <p class="hero-subtitle">Why $500K Builds a Winning Business<br>($250K Already Committed + Your $250K)</p>
             
             <div style="background: rgba(239, 68, 68, 0.2); backdrop-filter: blur(10px); padding: 1.5rem 2rem; border-radius: 12px; border: 2px solid rgba(239, 68, 68, 0.5); margin: 2rem auto; max-width: 700px;">
                 <div style="font-size: 1.4rem; font-weight: 800; margin-bottom: 0.75rem;">⚡ TIME-SENSITIVE OPPORTUNITY</div>
@@ -1277,7 +1278,7 @@
             <div class="comparison-card card-winning">
                 <div class="card-icon">🚀</div>
                 <h3 class="card-title">Path 2: Modern DME → Platform</h3>
-                <div class="card-amount">$250K</div>
+                <div class="card-amount">$500K</div>
                 
                 <ul class="feature-list">
                     <li>Multilingual advantage (500K+ underserved market)</li>
@@ -1650,17 +1651,17 @@
                     <li>OR 1 van → 5-7 deliveries/day → turn customers away → lose to competitors</li>
                 </ul>
                 <p style="font-weight: 700; font-size: 1.2rem; margin-top: 2rem; text-align: center;">
-                    This business requires full commitment. $250K builds a winner. $50K builds a loser. $150K builds confusion and failure.
+                    This business requires full commitment. $500K builds a winner ($250K already secured + your $250K). $50K builds a loser. Anything in between builds confusion and failure.
                 </p>
             </div>
         </div>
     </section>
 
-    <!-- What $250K Builds -->
+    <!-- What $500K Builds -->
     <section class="section">
         <div class="section-header">
-            <h2 class="section-title">What $250K Builds</h2>
-            <p class="section-subtitle">Complete modern DME infrastructure that wins immediately</p>
+            <h2 class="section-title">What $500K Builds</h2>
+            <p class="section-subtitle">Complete modern DME infrastructure — $250K already committed, $250K to complete the round</p>
         </div>
         
         <div class="investment-breakdown">
@@ -1670,17 +1671,47 @@
                 <div>
                     <div class="breakdown-label" style="font-weight: 700;">💻 Technology Infrastructure</div>
                     <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
-                        Insurance billing automation platform, physician referral/e-prescription portal, AI-powered prior authorization system, workflow automation tools, multilingual e-commerce website
+                        Comprehensive AI-powered platform: NikoHealth + GenHealth.ai integration, automated prior authorization system, physician referral/e-prescription portal, insurance billing automation, multilingual e-commerce platform, workflow automation tools, patient engagement systems
                     </div>
                 </div>
-                <span class="breakdown-amount">$42,000</span>
+                <span class="breakdown-amount">$100,000</span>
             </div>
             
             <div class="breakdown-item">
                 <div>
                     <div class="breakdown-label" style="font-weight: 700;">🚚 Delivery Infrastructure</div>
                     <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
-                        2 professional delivery vans for hospital beds and large equipment. Enables 10-14 deliveries/day (vs 5-7 with one van)
+                        2 professional delivery vans fully equipped for hospital beds and large equipment. GPS tracking, professional branding, secure delivery systems. Enables 10-14 deliveries/day vs 5-7 with single van
+                    </div>
+                </div>
+                <span class="breakdown-amount">$72,000</span>
+            </div>
+            
+            <div class="breakdown-item">
+                <div>
+                    <div class="breakdown-label" style="font-weight: 700;">🏢 Professional Facility</div>
+                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
+                        2,000 sq ft Port Washington facility with top-tier buildout: climate control, advanced security systems, professional finishes, customer showroom area, inspection-ready warehouse. Commercial insurance audit-ready from day one
+                    </div>
+                </div>
+                <span class="breakdown-amount">$100,000</span>
+            </div>
+            
+            <div class="breakdown-item">
+                <div>
+                    <div class="breakdown-label" style="font-weight: 700;">📦 Strategic Inventory</div>
+                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
+                        Comprehensive product assortment across all 36 BOC-approved categories. Complete order fulfillment capability (bed + mattress + rails + table + accessories). Zero "out of stock" customer losses. Optimized for high-margin commercial insurance products
+                    </div>
+                </div>
+                <span class="breakdown-amount">$100,000</span>
+            </div>
+            
+            <div class="breakdown-item">
+                <div>
+                    <div class="breakdown-label" style="font-weight: 700;">⚙️ Operations Infrastructure</div>
+                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
+                        Advanced inventory tracking systems, professional packaging/labeling equipment, office technology suite, communication systems, secure delivery equipment, quality control systems
                     </div>
                 </div>
                 <span class="breakdown-amount">$36,000</span>
@@ -1688,71 +1719,62 @@
             
             <div class="breakdown-item">
                 <div>
-                    <div class="breakdown-label" style="font-weight: 700;">🏢 Professional Facility</div>
+                    <div class="breakdown-label" style="font-weight: 700;">📋 Comprehensive Licensing & Insurance Network</div>
                     <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
-                        2,000 sq ft Port Washington space. Lease commitment + full buildout (climate control, security, professional finishes, showroom area). Passes commercial insurance audits.
+                        CPAP accreditation, commercial insurance network applications (UnitedHealthcare, Aetna, BCBS, Cigna, Humana), expanded state licenses, comprehensive business insurance, HIPAA compliance infrastructure, ongoing compliance systems
                     </div>
                 </div>
-                <span class="breakdown-amount">$45,000</span>
+                <span class="breakdown-amount">$62,000</span>
             </div>
             
             <div class="breakdown-item">
                 <div>
-                    <div class="breakdown-label" style="font-weight: 700;">📦 Deep Inventory</div>
+                    <div class="breakdown-label" style="font-weight: 700;">📢 Market Launch & Brand Building</div>
                     <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
-                        Full product assortment across all major DME categories. Complete orders immediately (bed + mattress + rails + table). No "item out of stock" losses.
+                        Major multilingual marketing campaign (Russian/Uzbek/Farsi/Tajik), comprehensive physician outreach program, community launch events, professional branding and materials, digital advertising across multiple channels, public relations
                     </div>
                 </div>
-                <span class="breakdown-amount">$75,000</span>
+                <span class="breakdown-amount">$30,000</span>
             </div>
             
             <div class="breakdown-item">
-                <div>
-                    <div class="breakdown-label" style="font-weight: 700;">⚙️ Operations Infrastructure</div>
-                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
-                        Inventory tracking systems, professional packaging/labeling, office equipment, communication systems, secure delivery equipment
-                    </div>
-                </div>
-                <span class="breakdown-amount">$18,000</span>
+                <span class="breakdown-label"><strong>TOTAL GROWTH CAPITAL</strong></span>
+                <span class="breakdown-amount" style="font-size: 2rem;">$500,000</span>
             </div>
             
-            <div class="breakdown-item">
-                <div>
-                    <div class="breakdown-label" style="font-weight: 700;">📋 Licenses & Insurance Contracts</div>
-                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
-                        CPAP accreditation, commercial insurance applications (UHC, Aetna, BCBS), expanded state licenses, business insurance, HIPAA compliance
-                    </div>
-                </div>
-                <span class="breakdown-amount">$24,000</span>
-            </div>
-            
-            <div class="breakdown-item">
-                <div>
-                    <div class="breakdown-label" style="font-weight: 700;">📢 Marketing & Launch</div>
-                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.25rem;">
-                        Multilingual Facebook campaigns (Russian/Uzbek/Farsi/Tajik), physician marketing materials, community launch event, professional branding
-                    </div>
-                </div>
-                <span class="breakdown-amount">$10,000</span>
-            </div>
-            
-            <div class="breakdown-item">
-                <span class="breakdown-label"><strong>TOTAL INVESTMENT</strong></span>
-                <span class="breakdown-amount" style="font-size: 2rem;">$250,000</span>
-            </div>
-            
-            <div class="breakdown-item" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; margin-top: 2rem; padding: 2rem; border-radius: 16px; border: 3px solid rgba(255,255,255,0.3);">
+            <div style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; margin-top: 2rem; padding: 2rem; border-radius: 16px; border: 3px solid rgba(255,255,255,0.3);">
                 <div style="text-align: center;">
-                    <div style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">INVESTMENT TERMS</div>
+                    <div style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">CAPITAL STATUS</div>
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-bottom: 1.5rem;">
+                        <div>
+                            <div style="font-size: 1.1rem; opacity: 0.9; margin-bottom: 0.5rem;">Primary Investor</div>
+                            <div style="font-size: 2.5rem; font-weight: 900;">$250K ✓</div>
+                            <div style="font-size: 1rem; opacity: 0.9; margin-top: 0.5rem;">COMMITTED</div>
+                        </div>
+                        <div style="border-left: 2px solid rgba(255,255,255,0.3); padding-left: 2rem;">
+                            <div style="font-size: 1.1rem; opacity: 0.9; margin-bottom: 0.5rem;">Your Investment</div>
+                            <div style="font-size: 2.5rem; font-weight: 900;">$250K</div>
+                            <div style="font-size: 1rem; opacity: 0.9; margin-top: 0.5rem;">SEEKING</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; margin-top: 1rem; padding: 2rem; border-radius: 16px; border: 3px solid rgba(255,255,255,0.3); text-align: center;">
+                <div>
+                    <div style="font-size: 1.3rem; font-weight: 700; margin-bottom: 1rem;">YOUR INVESTMENT TERMS</div>
                     <div style="font-size: 2.5rem; font-weight: 900; margin-bottom: 0.5rem;">20% Equity</div>
                     <div style="font-size: 1.2rem; opacity: 0.95;">for $250,000 investment</div>
+                    <div style="font-size: 1rem; opacity: 0.9; margin-top: 1rem; padding-top: 1rem; border-top: 2px solid rgba(255,255,255,0.3);">
+                        Same terms as primary investor · Completes $500K growth capital round
+                    </div>
                 </div>
             </div>
         </div>
         
         <div style="margin-top: 3rem; padding: 2rem; background: #f0f9ff; border-radius: 16px; border-left: 5px solid #667eea;">
             <p style="font-size: 1.2rem; line-height: 1.8; color: #475569; margin: 0;">
-                This $250K investment deploys immediately into growth infrastructure. To provide full transparency on the capital structure, here's what founders have already contributed to build the foundation.
+                This $500K growth capital ($250K already committed + your $250K) deploys immediately into market-dominating infrastructure. With one investor already validated through due diligence, your investment completes the round and enables full execution. To provide complete transparency on the capital structure, here's what founders have already contributed to build the foundation.
             </p>
         </div>
     </section>
@@ -1761,7 +1783,7 @@
     <section class="section" style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);">
         <div class="section-header">
             <h2 class="section-title" style="color: #92400e;">Capital Structure & Value Assessment</h2>
-            <p class="section-subtitle" style="color: #78350f;">Founders' $518K-$680K investment establishes the foundation</p>
+            <p class="section-subtitle" style="color: #78350f;">Founders' $406K-$555K investment establishes the foundation</p>
         </div>
         
         <!-- Two-column founder profiles -->
@@ -1779,12 +1801,12 @@
                 </div>
                 
                 <div style="background: #f0f9ff; padding: 1.5rem; border-radius: 12px; border-left: 4px solid #667eea; margin-bottom: 1.5rem;">
-                    <div style="font-size: 1.8rem; font-weight: 900; color: #667eea; margin-bottom: 1rem;">$291K-$402K</div>
+                    <div style="font-size: 1.8rem; font-weight: 900; color: #667eea; margin-bottom: 1rem;">$206K-$280K</div>
                     <div style="font-size: 0.95rem; color: #475569; line-height: 1.7;">
                         <strong>Regulatory Achievement:</strong> $78K-$110K<br>
-                        <strong>Market Access:</strong> $150K-$200K<br>
-                        <strong>Operations Foundation:</strong> $40K-$50K<br>
-                        <strong>12 Months Foundation Work:</strong> $23K-$42K
+                        <strong>Market Access:</strong> $90K-$120K<br>
+                        <strong>Operations Foundation:</strong> $28K-$35K<br>
+                        <strong>12 Months Foundation Work:</strong> $10K-$15K
                     </div>
                 </div>
                 
@@ -1805,13 +1827,13 @@
                 </div>
                 
                 <div style="background: #f0f9ff; padding: 1.5rem; border-radius: 12px; border-left: 4px solid #667eea; margin-bottom: 1.5rem;">
-                    <div style="font-size: 1.8rem; font-weight: 900; color: #667eea; margin-bottom: 1rem;">$227K-$278K</div>
+                    <div style="font-size: 1.8rem; font-weight: 900; color: #667eea; margin-bottom: 1rem;">$200K-$275K</div>
                     <div style="font-size: 0.95rem; color: #475569; line-height: 1.7;">
                         <strong>Cash Investment:</strong> $75K<br>
-                        <strong>Strategic Direction:</strong> $60K-$80K<br>
-                        <strong>Technology Architecture:</strong> $60K-$80K<br>
-                        <strong>Implementation:</strong> $32K-$43K<br>
-                        <strong>Platform Commitment:</strong> $150K-$200K
+                        <strong>Strategic Direction:</strong> $42K-$60K<br>
+                        <strong>Technology Architecture:</strong> $42K-$60K<br>
+                        <strong>Implementation:</strong> $23K-$40K<br>
+                        <strong>Platform Commitment:</strong> $18K-$40K
                     </div>
                 </div>
                 
@@ -1822,56 +1844,99 @@
         </div>
         
         <!-- Investment Structure Overview -->
-        <div style="background: white; padding: 3rem; border-radius: 20px; box-shadow: 0 20px 60px rgba(0,0,0,0.15); border: 3px solid #f59e0b; text-align: center;">
-            <h3 style="font-size: 2rem; margin-bottom: 2rem; color: #92400e;">Investment Structure</h3>
+        <div style="background: white; padding: 3rem; border-radius: 20px; box-shadow: 0 20px 60px rgba(0,0,0,0.15); border: 3px solid #f59e0b;">
+            <h3 style="font-size: 2rem; margin-bottom: 2rem; text-align: center; color: #92400e;">Investment Structure</h3>
             
-            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2rem; margin: 2rem 0;">
-                <div>
-                    <div style="font-size: 2.5rem; font-weight: 900; color: #667eea;">$518K-$680K</div>
-                    <div style="font-size: 1.1rem; color: #64748b; margin-top: 0.5rem;">Founders' Capital</div>
-                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.5rem;">80% Equity</div>
+            <!-- Founders Section -->
+            <div style="margin-bottom: 2rem;">
+                <div style="background: #eef2ff; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+                    <h4 style="font-size: 1.3rem; font-weight: 700; color: #667eea; text-align: center; margin-bottom: 1rem;">FOUNDERS (60% Total Equity)</h4>
                 </div>
-                <div>
-                    <div style="font-size: 2.5rem; font-weight: 900; color: #10b981;">$250K</div>
-                    <div style="font-size: 1.1rem; color: #64748b; margin-top: 0.5rem;">Your Capital</div>
-                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.5rem;">20% Equity</div>
-                </div>
-                <div>
-                    <div style="font-size: 2.5rem; font-weight: 900; color: #f59e0b;">$768K-$930K</div>
-                    <div style="font-size: 1.1rem; color: #64748b; margin-top: 0.5rem;">Total Capital</div>
-                    <div style="font-size: 0.95rem; color: #64748b; margin-top: 0.5rem;">Full Stack</div>
+                
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-bottom: 1rem;">
+                    <div style="background: #f8fafc; padding: 2rem; border-radius: 12px; border: 2px solid #cbd5e1; text-align: center;">
+                        <div style="font-size: 1.1rem; font-weight: 700; color: #475569; margin-bottom: 0.75rem;">Mavluda Marufova</div>
+                        <div style="font-size: 0.95rem; color: #64748b; margin-bottom: 1rem;">President & Co-Founder</div>
+                        <div style="font-size: 2rem; font-weight: 900; color: #667eea; margin-bottom: 0.5rem;">20%</div>
+                        <div style="font-size: 1.25rem; font-weight: 700; color: #475569;">$206K-$280K</div>
+                    </div>
+                    
+                    <div style="background: #f8fafc; padding: 2rem; border-radius: 12px; border: 2px solid #cbd5e1; text-align: center;">
+                        <div style="font-size: 1.1rem; font-weight: 700; color: #475569; margin-bottom: 0.75rem;">Ryan Tyndall</div>
+                        <div style="font-size: 0.95rem; color: #64748b; margin-bottom: 1rem;">CEO & Co-Founder</div>
+                        <div style="font-size: 2rem; font-weight: 900; color: #667eea; margin-bottom: 0.5rem;">40%</div>
+                        <div style="font-size: 1.25rem; font-weight: 700; color: #475569;">$200K-$275K</div>
+                    </div>
                 </div>
             </div>
             
-            <div style="font-size: 1.1rem; line-height: 1.8; margin-top: 2.5rem; text-align: left; max-width: 900px; margin-left: auto; margin-right: auto; color: #475569;">
-                <p style="margin-bottom: 0.75rem;">
-                    ✓ <strong>Foundation built:</strong> Regulatory approvals, market access, technology architecture
-                </p>
-                <p style="margin-bottom: 0.75rem;">
-                    ✓ <strong>Growth capital:</strong> Professional infrastructure, inventory, delivery, launch
-                </p>
-                <p style="margin-bottom: 0.75rem;">
-                    ✓ <strong>Platform funded:</strong> Year 1 profits build 85%-margin marketplace model
-                </p>
+            <!-- Investors Section -->
+            <div style="margin-bottom: 2rem;">
+                <div style="background: #f0fdf4; padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+                    <h4 style="font-size: 1.3rem; font-weight: 700; color: #059669; text-align: center; margin-bottom: 1rem;">INVESTORS (40% Total Equity)</h4>
+                </div>
+                
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-bottom: 1rem;">
+                    <div style="background: #dcfce7; padding: 2rem; border-radius: 12px; border: 3px solid #10b981; text-align: center; position: relative;">
+                        <div style="position: absolute; top: -12px; right: 10px; background: #10b981; color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.85rem; font-weight: 700;">✓ COMMITTED</div>
+                        <div style="font-size: 1.1rem; font-weight: 700; color: #065f46; margin-bottom: 0.75rem;">Primary Investor</div>
+                        <div style="font-size: 0.95rem; color: #065f46; margin-bottom: 1rem;">Initial Backer</div>
+                        <div style="font-size: 2rem; font-weight: 900; color: #059669; margin-bottom: 0.5rem;">20%</div>
+                        <div style="font-size: 1.25rem; font-weight: 700; color: #065f46;">$250,000</div>
+                    </div>
+                    
+                    <div style="background: #fef3c7; padding: 2rem; border-radius: 12px; border: 3px solid #f59e0b; text-align: center; position: relative;">
+                        <div style="position: absolute; top: -12px; right: 10px; background: #f59e0b; color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.85rem; font-weight: 700;">SEEKING</div>
+                        <div style="font-size: 1.1rem; font-weight: 700; color: #92400e; margin-bottom: 0.75rem;">Your Investment</div>
+                        <div style="font-size: 0.95rem; color: #92400e; margin-bottom: 1rem;">Same Terms as Primary</div>
+                        <div style="font-size: 2rem; font-weight: 900; color: #f59e0b; margin-bottom: 0.5rem;">20%</div>
+                        <div style="font-size: 1.25rem; font-weight: 700; color: #92400e;">$250,000</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Total Capital -->
+            <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 12px; text-align: center; color: white;">
+                <div style="font-size: 1.2rem; margin-bottom: 0.5rem; opacity: 0.95;">Total Capital</div>
+                <div style="font-size: 2.5rem; font-weight: 900; margin-bottom: 0.5rem;">$906K - $1.06M</div>
+                <div style="font-size: 1rem; opacity: 0.9;">Fully Capitalized for Growth & Platform Evolution</div>
+            </div>
+            
+            <!-- Benefits -->
+            <div style="margin-top: 2.5rem; padding: 2rem; background: #f8fafc; border-radius: 12px;">
+                <div style="font-size: 1.1rem; line-height: 1.8; color: #475569;">
+                    <p style="margin-bottom: 0.75rem;">
+                        ✓ <strong>Foundation built:</strong> Regulatory approvals, market access, technology architecture
+                    </p>
+                    <p style="margin-bottom: 0.75rem;">
+                        ✓ <strong>Primary investor validated:</strong> $250K committed after comprehensive due diligence
+                    </p>
+                    <p style="margin-bottom: 0.75rem;">
+                        ✓ <strong>Growth capital complete:</strong> Your $250K enables immediate scaling and market capture
+                    </p>
+                    <p style="margin-bottom: 0;">
+                        ✓ <strong>Platform funded:</strong> Year 1 profits build 85%-margin marketplace model
+                    </p>
+                </div>
             </div>
         </div>
         
         <!-- Capital Composition Transparency -->
         <div style="margin-top: 2.5rem; padding: 2rem; background: rgba(255,255,255,0.5); border-radius: 16px; border: 2px solid rgba(146,64,14,0.3);">
             <p style="font-size: 1.05rem; line-height: 1.8; color: #475569; margin-bottom: 1rem;">
-                <strong style="color: #92400e;">Capital Composition:</strong> Founders' capital includes $153K-$185K in hard costs (regulatory fees, facility, surety bond, cash injection) plus $365K-$495K in strategic and operational development (valued at market rates for comparable expertise and ongoing commitments).
+                <strong style="color: #92400e;">Capital Composition:</strong> Founders' capital includes $150K-$185K in hard costs (regulatory fees, facility deposits, surety bond, cash investments) plus $256K-$370K in strategic and operational development (valued at market rates for comparable expertise and ongoing commitments).
             </p>
             <p style="font-size: 1.05rem; line-height: 1.8; color: #475569; margin: 0;">
-                This includes both completed work (12 months of regulatory navigation, strategic planning, technology architecture) and future commitments (Ryan will build the MedBazaar platform using Year 1 profits—500-800 hours of full-stack development valued at $150K-$200K). Your $250K cash investment leverages this foundation to accelerate growth while founders continue building long-term value.
+                The primary investor's $250K commitment validates our business model and investment thesis after comprehensive due diligence. This proven investor confidence significantly de-risks the opportunity for co-investors. Your $250K completes the growth capital round, enabling immediate deployment into professional infrastructure, deep inventory, delivery capacity, and commercial insurance applications.
             </p>
         </div>
     </section>
 
-    <!-- What $250K Builds (continued) -->
+    <!-- What $500K Builds (continued) -->
     <section class="section">
         <div style="margin-bottom: 3rem; padding: 2rem; background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%); border-radius: 16px; border-left: 5px solid #0284c7;">
             <p style="font-size: 1.2rem; line-height: 1.8; color: #0c4a6e; margin: 0; text-align: center; font-weight: 600;">
-                With $518K-$680K already invested in regulatory foundation and operational infrastructure, plus your $250K deploying into growth, let's examine the three multipliers that drive this to a $25M-$150M exit.
+                With $406K-$555K already invested by founders in regulatory foundation and operational infrastructure, plus $500K in growth capital ($250K committed + your $250K), let's examine the three multipliers that drive this to a $25M-$150M exit.
             </p>
         </div>
         
@@ -2591,8 +2656,8 @@
                 </div>
                 
                 <div style="background: rgba(16, 185, 129, 0.2); backdrop-filter: blur(10px); padding: 3rem; border-radius: 20px; border: 3px solid rgba(16, 185, 129, 0.5);">
-                    <h3 style="font-size: 2rem; margin-bottom: 1rem;">$250K Path</h3>
-                    <div style="font-size: 1.25rem; margin-bottom: 1.5rem; opacity: 0.9;">Modern DME → Platform</div>
+                    <h3 style="font-size: 2rem; margin-bottom: 1rem;">$500K Path</h3>
+                    <div style="font-size: 1.25rem; margin-bottom: 1.5rem; opacity: 0.9;">Modern DME → Platform ($250K Committed + Your $250K)</div>
                     <div style="font-size: 1.1rem; line-height: 1.8;">
                         <p>✓ Deep inventory (complete orders)</p>
                         <p>✓ 2 vans (2x capacity)</p>
@@ -2645,7 +2710,7 @@
                     You can't build a DME company with partial funding. You can't execute this strategy slowly. You can't have one foot in and one foot out.
                 </p>
                 <p style="font-size: 1.1rem; line-height: 1.8; margin-top: 1rem;">
-                    We do this right with $250K and seize a once-in-a-lifetime opportunity to take advantage of a changing market environment—or we accept a very high risk of failure within 5 years as competitive bidding returns and traditional DME economics collapse.
+                    We do this right with $500K ($250K already committed + your $250K) and seize a once-in-a-lifetime opportunity to take advantage of a changing market environment—or we accept a very high risk of failure within 5 years as competitive bidding returns and traditional DME economics collapse.
                 </p>
                 <p style="font-size: 1.2rem; font-weight: 800; margin-top: 2rem; text-align: center;">
                     The window is NOW. Let's build something extraordinary.
